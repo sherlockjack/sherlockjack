@@ -59,7 +59,7 @@ Languages and Tools🛠:
 
 </div>
 -----
-Credits: [Reiou Nagata](https://github.com/sherlockjack)
+Credits: [Reiou](https://github.com/sherlockjack)
 
 
 
